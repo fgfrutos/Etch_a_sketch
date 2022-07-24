@@ -14,6 +14,6 @@ All this was achieved only with native DOM manipulation.
 
 The UI is not good at all and is defenitively not responsive because of the fact that simulate the hover effect with touch eventes is not that easy.
 
-Here is the live [demo]() of this project.
+Here is the live [demo](https://fgfrutos.github.io/Etch_a_sketch/) of this project.
 
 
